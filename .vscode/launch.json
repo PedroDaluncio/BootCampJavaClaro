@@ -1,0 +1,44 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TvUser",
+            "request": "launch",
+            "mainClass": "edu.pedro.exercicio.TvUser",
+            "projectName": "BootCampJavaClaro_aa5fbece"
+        },
+        {
+            "type": "java",
+            "name": "BasicSintax",
+            "request": "launch",
+            "mainClass": "edu.pedro.sintaxebasica.BasicSintax",
+            "projectName": "BootCampJavaClaro_aa5fbece"
+        },
+        {
+            "type": "java",
+            "name": "TerminalTest",
+            "request": "launch",
+            "mainClass": "edu.pedro.testeterminal.TerminalTest",
+            "projectName": "BootCampJavaClaro_aa5fbece",
+            "args": ["pedro", "henrique", "15"]
+        },
+        {
+            "type": "java",
+            "name": "VariableTypes",
+            "request": "launch",
+            "mainClass": "edu.pedro.tiposvariaveis.VariableTypes",
+            "projectName": "BootCampJavaClaro_aa5fbece"
+        }
+    ]
+}
