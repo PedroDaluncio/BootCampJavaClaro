@@ -4,7 +4,13 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "edu.pedro.desafiocontabancaria.BankAccount",
+            "projectName": "BootCampJavaClaro_aa5fbece"
+        },
         {
             "type": "java",
             "name": "Current File",
@@ -31,7 +37,11 @@
             "request": "launch",
             "mainClass": "edu.pedro.testeterminal.TerminalTest",
             "projectName": "BootCampJavaClaro_aa5fbece",
-            "args": ["pedro", "henrique", "15"]
+            "args": [
+                "pedro",
+                "henrique",
+                "15"
+            ]
         },
         {
             "type": "java",
