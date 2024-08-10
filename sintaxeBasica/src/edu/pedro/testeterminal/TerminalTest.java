@@ -6,6 +6,8 @@ public class TerminalTest{
         Scanner scanner = new Scanner(System.in);
         String nome = scanner.next();
         System.out.print("Seu nome é: " + nome);
-
+        if (nome != "")
+            System.out.print('a');
+        
     }
 }

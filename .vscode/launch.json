@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LoopTypes",
+            "request": "launch",
+            "mainClass": "edu.pedro.estruturasrepetição.LoopTypes",
+            "projectName": "BootCampJavaClaro_aa5fbece"
+        },
+        {
+            "type": "java",
             "name": "BankAccount",
             "request": "launch",
             "mainClass": "edu.pedro.desafiocontabancaria.BankAccount",
