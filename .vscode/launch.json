@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CustomExceptionExample",
+            "request": "launch",
+            "mainClass": "edu.pedro.exemploexcecaos.CustomExceptionExample",
+            "projectName": "BootCampJavaClaro_aa5fbece"
+        },
+        {
+            "type": "java",
             "name": "LoopTypes",
             "request": "launch",
             "mainClass": "edu.pedro.estruturasrepetição.LoopTypes",
